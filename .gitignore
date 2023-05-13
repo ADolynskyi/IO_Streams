@@ -13,6 +13,9 @@ target/
 *.iml
 *.ipr
 *.txt
+!file.txt
+!file2.txt
+!words.txt
 user.json
 ### Eclipse ###
 .apt_generated
